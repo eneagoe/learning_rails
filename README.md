@@ -47,6 +47,12 @@ Podcasts
 ==============
 * [The Ruby Rogues](http://rubyrogues.com/) - start with episode [131 - How to Learn](http://rubyrogues.com/131-rr-how-to-learn/)
 
+Newsletters
+===========
+* [Ruby Weekly](http://rubyweekly.com/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [HTML5 Weekly](http://html5weekly.com/)
+
 Fun
 ==============
 * [Project Euler](http://projecteuler.net)
