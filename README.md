@@ -50,6 +50,7 @@ Podcasts
 Newsletters
 ===========
 * [Ruby Weekly](http://rubyweekly.com/)
+* [Status Code](http://statuscode.org/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
 
