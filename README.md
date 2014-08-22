@@ -40,7 +40,6 @@ Screencasts
 ==============
 * [Railscasts - Ryan Bates](http://www.railstutorial.org/)
 * [Ruby Tapas - Avdi Grimm](http://www.rubytapas.com/)
-* [Metacasts - Mark Bates](https://www.metacasts.tv/)
 * [Peepcode](http://www.pluralsight.com/training/Courses/Find?highlight=true&searchTerm=peepcode)
 
 Podcasts
