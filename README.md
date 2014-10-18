@@ -4,6 +4,7 @@ Books
 ### Reference
 * [Andrew Hunt, Dave Thomas - The Pragmatic Programmer](http://pragprog.com/book/tpp/the-pragmatic-programmer)
 * [Programming Ruby 1.9 & 2.0 - Dave Thomas, Chad Fowler, Andy Hunt](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+* [Gettting Real](https://gettingreal.37signals.com/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Ruby Core Reference](http://ruby-doc.org/)
 
@@ -27,9 +28,9 @@ Books
 
 Online Courses
 ================
-* [Codecademy Ruby track](http://www.codecademy.com/tracks/ruby)
 * [Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022) - self-paced intro to CS
-* [Engineering Software as a Service](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377) - intro to web development in Rails 
+* [Codecademy Ruby track](http://www.codecademy.com/tracks/ruby)
+* [Engineering Software as a Service](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377) - intro to web development in Rails
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841) - intro to CS
 * [Udacity - Intro to Computer Science](https://www.udacity.com/course/cs101) - learn CS by building a search engine
 * [Udacity - Web Development](https://www.udacity.com/course/cs253) - build a blog
@@ -45,6 +46,7 @@ Screencasts
 Podcasts
 ==============
 * [The Ruby Rogues](http://rubyrogues.com/) - start with episode [131 - How to Learn](http://rubyrogues.com/131-rr-how-to-learn/)
+* [Ruby 5](http://ruby5.envylabs.com/)
 
 Newsletters
 ===========
@@ -52,8 +54,11 @@ Newsletters
 * [Status Code](http://statuscode.org/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
+* [Versioning](http://www.sitepoint.com/versioning/)
 
-Fun
+Fun & Exercise
 ==============
+* [Exercism](http://exercism.io/)
+* [CodeWars](http://www.codewars.com/)
 * [Project Euler](http://projecteuler.net)
 * [SPOJ](http://www.spoj.com/)
