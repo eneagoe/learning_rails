@@ -4,7 +4,7 @@ Books
 ### Reference
 * [Andrew Hunt, Dave Thomas - The Pragmatic Programmer](http://pragprog.com/book/tpp/the-pragmatic-programmer)
 * [Programming Ruby 1.9 & 2.0 - Dave Thomas, Chad Fowler, Andy Hunt](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-* [Gettting Real](https://gettingreal.37signals.com/)
+* [Getting Real](https://gettingreal.37signals.com/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Ruby Core Reference](http://ruby-doc.org/)
 
@@ -51,9 +51,9 @@ Podcasts
 Newsletters
 ===========
 * [Ruby Weekly](http://rubyweekly.com/)
-* [Status Code](http://statuscode.org/)
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [HTML5 Weekly](http://html5weekly.com/)
+* [Status Code](http://statuscode.org/)
 * [Versioning](http://www.sitepoint.com/versioning/)
 
 Fun & Exercise
