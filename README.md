@@ -13,6 +13,7 @@ Books
 * [Daniel Kehoe - Learn Ruby on Rails](http://learn-rails.com/learn-ruby-on-rails.html)
 * [Michael Hartl - Ruby on Rails Tutorial](http://www.railstutorial.org/)
 * [Dave Hoover, Adewale Oshineye - Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
+* [Tealeaf Academy - Introduction to Programming with Ruby](http://www.gotealeaf.com/books/ruby)
 
 ### Intermediate
 * [The Rails 4 Way - Obie Fernandez](https://leanpub.com/tr4w)
