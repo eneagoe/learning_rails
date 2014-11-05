@@ -7,6 +7,7 @@ Books
 * [Getting Real](https://gettingreal.37signals.com/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Ruby Core Reference](http://ruby-doc.org/)
+* [Awesome Ruby](http://awesome-ruby.com/) - curated list of Ruby/Rails resources
 
 ### Beginners
 * [Learn to Program - Chris Pine](https://pine.fm/LearnToProgram/)
