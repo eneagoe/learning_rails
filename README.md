@@ -49,6 +49,7 @@ Podcasts
 ==============
 * [The Ruby Rogues](http://rubyrogues.com/) - start with episode [131 - How to Learn](http://rubyrogues.com/131-rr-how-to-learn/)
 * [Ruby 5](http://ruby5.envylabs.com/)
+* [CodeNewbie](http://www.codenewbie.org/podcast)
 
 Newsletters
 ===========
