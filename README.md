@@ -31,6 +31,7 @@ Books
 
 Online Courses
 ================
+* [Treehouse](http://teamtreehouse.com/) - tutorials for beginners and advanced beginners
 * [Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022) - self-paced intro to CS
 * [Codecademy Ruby track](http://www.codecademy.com/tracks/ruby)
 * [Engineering Software as a Service](https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-engineering-1377) - intro to web development in Rails
@@ -39,6 +40,7 @@ Online Courses
 * [Udacity - Web Development](https://www.udacity.com/course/cs253) - build a blog
 * [Ruby Programming - Pragmatic Studio](http://pragmaticstudio.com/ruby)
 * [Rails for Zombies](http://railsforzombies.org/)
+* [Upcase](https://upcase.com/) - Screencasts and training for intermediate to advanced developers
 
 Screencasts
 ==============
