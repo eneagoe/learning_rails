@@ -62,7 +62,7 @@ Newsletters
 * [HTML5 Weekly](http://html5weekly.com/)
 * [Status Code](http://statuscode.org/)
 * [Versioning](http://www.sitepoint.com/versioning/)
-* [Greem Ruby](http://greenruby.org/)
+* [Green Ruby](http://greenruby.org/)
 
 Fun & Exercise
 ==============
