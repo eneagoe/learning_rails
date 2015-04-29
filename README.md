@@ -5,6 +5,7 @@ Books
 * [Andrew Hunt, Dave Thomas - The Pragmatic Programmer](http://pragprog.com/book/tpp/the-pragmatic-programmer)
 * [Robert C. Martin - The Clean Coder](http://www.informit.com/store/clean-coder-a-code-of-conduct-for-professional-programmers-9780137081073)
 * [Programming Ruby 1.9 & 2.0 - Dave Thomas, Chad Fowler, Andy Hunt](http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+* [The Ruby Way](http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780132808262)
 * [Getting Real](https://gettingreal.37signals.com/)
 * [Rails Guides](http://guides.rubyonrails.org/)
 * [Ruby Core Reference](http://ruby-doc.org/)
