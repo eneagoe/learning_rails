@@ -8,6 +8,7 @@ Books
 * [The Ruby Way](http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780132808262)
 * [Getting Real](https://gettingreal.37signals.com/)
 * [Rails Guides](http://guides.rubyonrails.org/)
+* [Rails API](http://api.rubyonrails.org/)
 * [Ruby Core Reference](http://ruby-doc.org/)
 * [Awesome Ruby](http://awesome-ruby.com/) - curated list of Ruby/Rails resources
 
