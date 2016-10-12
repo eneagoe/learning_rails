@@ -33,6 +33,7 @@ Books
 
 Online Courses
 ================
+* [Coursera - Become a Rails Developer](https://www.coursera.org/specializations/ruby-on-rails) - not for absolute beginners in programming, but covers all the basics, and it's well done.
 * [Treehouse](http://teamtreehouse.com/) - tutorials for beginners and advanced beginners
 * [Introduction to Computer Science](https://www.edx.org/course/harvardx/harvardx-cs50x-introduction-computer-1022) - self-paced intro to CS
 * [Codecademy Ruby track](http://www.codecademy.com/tracks/ruby)
